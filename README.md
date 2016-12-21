@@ -1,1 +1,1 @@
-# insult
+# Skeleton project for Swagger
